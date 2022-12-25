@@ -3,7 +3,7 @@
 
 - 👨‍💻 Portfolio - [ssaikumar65.github.io](ssaikumar65.github.io)
 
-- 📫 Reach me at **iamssaikumar65@gmail.com**
+- 📫 Reach me at **saikumar.sodipilli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
