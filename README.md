@@ -1,7 +1,7 @@
 <h1 align="center">Sai Kumar</h1>
 <h3 align="center">A passionate frontend developer from Vizag, India.</h3>
 
-- 👨‍💻 Portfolio - [saikumar-ssk.netlify.app/](saikumar-ssk.netlify.app/)
+- 👨‍💻 Portfolio - [https://saikumar-ssk.netlify.app/](https://saikumar-ssk.netlify.app/)
 
 - 📫 Reach me at **saikumar.sodipilli@gmail.com**
 
