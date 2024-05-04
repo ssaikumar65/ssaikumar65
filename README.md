@@ -1,5 +1,5 @@
 <h1 align="center">Sai Kumar</h1>
-<h3 align="center">A passionate frontend developer from Vizag, India.</h3>
+<h3 align="center">Experienced Web Developer skilled in crafting dynamic web applications using Next.js, React.js, and the MERN stack.</h3>
 
 - 👨‍💻 Portfolio - [https://saikumar-ssk.vercel.app/](https://saikumar-ssk.vercel.app/)
 
